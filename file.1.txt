@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-Hello from master
-=======
 this is the feature 1
+=========
+Hello from master
+>>>>>>>>> Temporary merge branch 2
 >>>>>>> feature/feature2
+>>>>>>> feature/feature1
